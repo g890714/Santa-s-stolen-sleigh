@@ -6,5 +6,6 @@ Unwilling to cancel Christmas, Santa is determined to deliver toys to all the go
 
 Given the sleigh's antiquated, weight-limited specifications, your challenge is to optimize the routes and loads Santa will take to and from the North Pole. And don't forget about Dasher, Dancer, Prancer, and Vixen; Santa is adamant that the best solutions will minimize the toll of this hectic night on his reindeer friends.
 
-#Simulated Annealing Algorithm
+
+Simulated Annealing Algorithm
 Move a gift to an arbitrary position within the same trip
