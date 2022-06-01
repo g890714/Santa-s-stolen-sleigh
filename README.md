@@ -14,3 +14,11 @@ Initial solution
 #Simulated Annealing Algorithm
 
 Move a gift to an arbitrary position within the same trip
+
+--------------------------------------------------------------------------------------------------------------
+
+Random research code - random.py
+
+Simulated Annealing Algorithm code - SA.py
+
+Slides for this project - Santa.pdf
